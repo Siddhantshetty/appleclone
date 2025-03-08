@@ -46,7 +46,7 @@ This project is a clone of the Apple iPhone 15 Pro website, built using modern w
 
 ## 👨‍💻 Author
 **Siddhant Shetty**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhantshetty) or check out my [GitHub](https://github.com/siddhantshetty).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhant-shetty-1811-/) or check out my [GitHub](https://github.com/siddhantshetty).
 
 ---
 This project was built to explore the power of React, Three.js, and GSAP while replicating a world-class website. Feel free to fork, contribute, or reach out for collaborations!
